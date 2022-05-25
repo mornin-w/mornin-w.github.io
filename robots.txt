@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mornin-w.github.io/sitemap.xml
